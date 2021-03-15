@@ -1,4 +1,5 @@
-import _ from "lodash";
+import _ from 'lodash';
 
-console.log("Hello, Hexlet!");
+console.log('Hello, Hexlet!');
+
 console.log(_.last([1, 2, 3, 4]));
